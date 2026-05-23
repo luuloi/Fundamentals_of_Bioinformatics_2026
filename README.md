@@ -12,7 +12,7 @@
 ## [Course Overview](Lecture_00/Lecture_00_overview_2026May23.pdf)
 ## Module 1: Review Molecular Biology and PCR
 ### Lecture 1: Central Dogma and DNA/RNA/Protein in Molecular Biology [Loi - 23/05/2026]
-- [PPT](Lecture_01/)
+- [PPT with Quizzes](Lecture_01/Lecture_01_The_Central_Dogma_Review.pdf)
 ### Lecture 2: PCR and Applications [Loi - 26-27/05/2026]
 ### Lecture 3: Next-Generation Sequecning (NGS) and Third-Generation Sequecning (TGS) [Loi - /05/2026]
 ##
