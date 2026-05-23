@@ -9,7 +9,7 @@
 - Reconstruct Evolutionary History: Construct, evaluate, and aesthetically visualize phylogenetic trees using distance-based and character-based methods.
 - Linux Command Line and Bash Script: Utilize Linux Command Line and Bash Script within Google Colab to explore and edit the sequence in FASTA format.
 ##
-## [Course Overview](Lecture_00/)
+## [Course Overview](Lecture_00/Lecture_00_overview_2026May23.pdf)
 ## Module 1: Review Molecular Biology and PCR
 ### Lecture 1: Central Dogma and DNA/RNA/Protein in Molecular Biology [Loi - 23/05/2026]
 - [PPT](Lecture_01/)
