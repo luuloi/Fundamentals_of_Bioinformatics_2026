@@ -13,7 +13,7 @@
 ### Lecture 1: Central Dogma and DNA/RNA/Protein in Molecular Biology
 ### Lecture 2: PCR and Applications
 ### Lecture 3: Next-Generation Sequecning (NGS) and Third-Generation Sequecning (TGS)
-###
+##
 ## Module 2: The Linux Environment & Data Retrieval
 ### Lecture 4: Introduction to Linux and Google Colab
 - Theory: The importance of the command line in modern biotechnology and high-throughput data analysis. The file system hierarchy.
