@@ -20,7 +20,7 @@
 ### Lecture 4: Introduction to Linux and Google Colab [Dan/Phuc - 24/05/2026]
 - Theory: The importance of the command line in modern biotechnology and high-throughput data analysis. The file system hierarchy.
 - Practice (Colab): Setting up Google Colab for Bash using the %%bash magic cell. Basic commands (pwd, ls, cd, mkdir, mv, touch, cp, free, whoiam, echo, cut, grep, >, >>, wget, paste, sort, uniq, |, diff, sed, awk, less, cat, head, tail, column).
-- [colab] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1am6SY7Ihn6TAbq7z9DuGovAOX69rJwo9)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1am6SY7Ihn6TAbq7z9DuGovAOX69rJwo9)
 - [Linux Commandline CheatSheet](https://www.digitalocean.com/community/tutorials/linux-commands)
 - [Data](Lecture_04/Data/)
 - Quiz: Linux file system navigation and basic command syntax.
