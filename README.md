@@ -15,7 +15,7 @@
 - [PPT with Quizzes](Lecture_01/Lecture_01_The_Central_Dogma_Review.pdf)
 ### Lecture 2: PCR and Applications [Loi - 26-27/05/2026]
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FdqGKeCNgGJ2qnB-8UJpV-eJWH-lVZr0?usp=sharing)
-- Basic commands (echo, tr, printf, seq, $() and $)
+- Basic commands (echo, =, tr, printf, seq, $() and $)
 ### Lecture 3: Next-Generation Sequecning (NGS) and Third-Generation Sequecning (TGS) [Loi - /05/2026]
 ##
 ## Module 2: The Linux Environment & Data Retrieval
