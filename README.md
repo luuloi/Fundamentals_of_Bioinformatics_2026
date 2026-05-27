@@ -16,7 +16,7 @@
 ### Lecture 2: PCR and Applications [Loi - 26-27/05/2026]
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FdqGKeCNgGJ2qnB-8UJpV-eJWH-lVZr0?usp=sharing)
 - Basic commands (echo, =, tr, printf, seq, '$()' and '$')
-### Lecture 3: Next-Generation Sequecning (NGS) and Third-Generation Sequecning (TGS) [Loi - /05/2026]
+### Lecture 3: Next-Generation Sequecning (NGS) and Third-Generation Sequecning (TGS) [Loi - 31/05/2026]
 ##
 ## Module 2: The Linux Environment & Data Retrieval
 ### Lecture 4: Introduction to Linux and Google Colab [Dan/Phuc - 24/05/2026]
@@ -34,7 +34,7 @@
 - Practice (Colab): Using cat, head, tail, wc, and grep. Counting sequences in a multi-FASTA file using grep -c.
 - Quiz: Recognizing FASTA format structures and correctly using pipes (|).
 - Homework: Download a multi-FASTA file via a provided link using wget. Use grep and wc to report the total number of sequences and extract only the header lines into a new file.
-### Lecture 6: Programmatic Database Access with EDirect [Dan/Phuc - 30/05/2026]
+### Lecture 6: Programmatic Database Access with EDirect [Dan/Phuc - 02/06/2026]
 - Theory: Introduction to NCBI Entrez Direct (EDirect). Translating web searches into command-line queries (esearch, efetch).
 - Practice (Colab): Installing EDirect in Colab. Using esearch -db nucleotide -query "term" | efetch -format fasta to download specific genes.
 - Quiz: Constructing boolean search queries for NCBI and EDirect tool functions.
