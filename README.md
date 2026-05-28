@@ -86,9 +86,9 @@
 ## **Module 5: Primer and Probe Design**
 ### **Lecture 13: Thermodynamics of PCR Design**
 - **Theory:** PCR kinetics. Rules for designing optimal primers and TaqMan probes (length, melting temperature $T_m$, GC content, avoiding secondary structures).
-- **Practice (Colab):** Using `awk` to write a basic $T_m$ calculator script (using the Wallace rule: $T_m = 2 \times (A+T) + 4 \times (G+C)$).
-- **Quiz:** Primer design constraints and calculating basic $T_m$.
-- **Homework:** Create a Bash script that takes a 20-base primer string as an argument and outputs its GC% and estimated $T_m$.
+- **Practice (Colab):** Using `awk` to write a basic $T_m$ calculator script (using the Wallace rule: T_m = 2(A+T) + 4(G+C)).
+- **Quiz:** Primer design constraints and calculating basic T_m.
+- **Homework:** Create a Bash script that takes a 20-base primer string as an argument and outputs its GC% and estimated T_m.
 
 ### **Lecture 14: Automated Design with Primer3**
 - **Theory:** Primer3 core algorithms. Specificity, off-target binding penalties, and multiplexing constraints.
