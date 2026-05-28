@@ -56,7 +56,7 @@
 - **Quiz:** Steps to format a FASTA file into a BLAST-searchable database.
 - **Homework:** Download a bacterial genome (FASTA) via `wget`. Use `makeblastdb` to format it as a nucleotide database.
 
-###**Lecture 9: Executing and Parsing BLAST Searches**
+### **Lecture 9: Executing and Parsing BLAST Searches**
 - **Theory:** Understanding E-values, bit scores, and alignment outputs.
 - **Practice (Colab):** Running `blastn`. Customizing output formats using `-outfmt "6 qseqid sseqid pident evalue"`. Parsing tabular output using `awk` to filter for high-confidence hits.
 - **Quiz:** Interpreting E-values and understanding the columns in BLAST tabular output format 6.
