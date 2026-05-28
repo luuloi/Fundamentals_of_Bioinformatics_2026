@@ -124,7 +124,7 @@
 - **Quiz:** Bash scripting syntax (variable assignment, loop structure).
 - **Homework:** Write a Bash `for` loop that iterates over three FASTA files, counts the sequences in each, and appends the results to a log file.
 
-## **Lecture 19: Capstone Project Lab**
+### **Lecture 19: Capstone Project Lab**
 - **Theory:** System integration. Reviewing how individual tools chain together.
 - **Practice (Colab):** Writing a single, executable shell script (`analyze_gene.sh`) that:
 1. Downloads a gene family using EDirect.
