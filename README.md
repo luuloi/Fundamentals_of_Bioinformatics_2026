@@ -110,7 +110,7 @@
 
 ### **Lecture 17: Tree Construction via Command Line**
 - **Theory:** Bootstrapping and statistical confidence in clades.
-- **Practice (Colab):** Installing FastTree (`apt-get install fasttree`). Generating a Maximum Likelihood tree from an MSA file generated in Lecture 9.
+- **Practice (Colab):** Installing FastTree (`apt-get install fasttree`). Generating a Maximum Likelihood tree from an MSA file generated in Lecture 11.
 - **Quiz:** Command line execution of FastTree and interpreting bootstrap values.
 - **Homework:** Build a phylogenetic tree using FastTree from a provided alignment of viral sequences. Save the resulting Newick tree to a file.
 ##
