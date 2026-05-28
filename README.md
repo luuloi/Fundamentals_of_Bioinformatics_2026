@@ -17,7 +17,7 @@
 ### **Lecture 1: Central Dogma and DNA/RNA/Protein in Molecular Biology [Loi - 23/05/2026]**
 - [PPT with Quizzes](Lecture_01/Lecture_01_The_Central_Dogma_Review.pdf)
 ### **Lecture 2: PCR and Applications [Loi - 26-27/05/2026]**
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FdqGKeCNgGJ2qnB-8UJpV-eJWH-lVZr0?usp=sharing)
+- Lecture, Quizzes and Homework: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FdqGKeCNgGJ2qnB-8UJpV-eJWH-lVZr0?usp=sharing)
 - Basic commands (echo, =, tr, printf, seq, '$()' and '$')
 ### **Lecture 3: Next-Generation Sequecning (NGS) and Third-Generation Sequecning (TGS) [Loi - 31/05/2026]**
 ##
