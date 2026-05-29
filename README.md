@@ -20,6 +20,8 @@
 - Lecture, Quizzes and Homework: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FdqGKeCNgGJ2qnB-8UJpV-eJWH-lVZr0?usp=sharing)
 - Basic commands (echo, =, tr, printf, seq, '$()' and '$')
 ### **Lecture 3: First Generation Sequencing (Sanger Sequencing), Next-Generation Sequecning (NGS) and Third-Generation Sequecning (TGS) [Loi - 30/05/2026]**
+- Homework Review: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aJveHizBjoPWVNxYxrBFlZcoBuHHzeQ6?usp=sharing)
+- [Lecture]()
 ##
 ## **Module 2: The Linux Environment & Data Retrieval**
 ### **Lecture 4: Introduction to Linux and Google Colab [Dan/Phuc - 24/05/2026]**
