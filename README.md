@@ -13,7 +13,7 @@
 ## [Course Overview](Lecture_00/Lecture_00_overview_2026May23.pdf)
 ##
 
-## **Module 1: Review Molecular Biology and PCR**
+## **Module 1: Review Molecular Biology, PCR and Sequencing Techniques**
 ### **Lecture 1: Central Dogma and DNA/RNA/Protein in Molecular Biology [Loi - 23/05/2026]**
 - [PPT with Quizzes](Lecture_01/Lecture_01_The_Central_Dogma_Review.pdf)
 ### **Lecture 2: PCR and Applications [Loi - 26-27/05/2026]**
