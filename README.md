@@ -19,8 +19,9 @@
 ### **Lecture 2: PCR and Applications [Loi - 26-27/05/2026]**
 - Lecture, Quizzes and Homework: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FdqGKeCNgGJ2qnB-8UJpV-eJWH-lVZr0?usp=sharing)
 - Basic commands (echo, =, tr, printf, seq, '$()' and '$')
-### **Lecture 3: First Generation Sequencing (Sanger Sequencing), Next-Generation Sequecning (NGS) and Third-Generation Sequecning (TGS) [Loi - 30/05/2026]**
-- Homework Review: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aJveHizBjoPWVNxYxrBFlZcoBuHHzeQ6?usp=sharing)
+### **Lecture 3: Transcription and Translation; First Generation Sequencing (Sanger Sequencing), Next-Generation Sequecning (NGS) and Third-Generation Sequecning (TGS) [Loi - 30/05/2026]**
+- Homework Review
+- Transcription and Translation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aJveHizBjoPWVNxYxrBFlZcoBuHHzeQ6?usp=sharing)
 - [Lecture]()
 ##
 ## **Module 2: The Linux Environment & Data Retrieval**
