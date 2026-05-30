@@ -21,8 +21,8 @@
 - Basic commands (echo, =, tr, printf, seq, '$()' and '$')
 ### **Lecture 3: Transcription and Translation; First Generation Sequencing (Sanger Sequencing), Next-Generation Sequecning (NGS) and Third-Generation Sequecning (TGS) [Loi - 30/05/2026]**
 - Homework Review
-- Transcription and Translation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aJveHizBjoPWVNxYxrBFlZcoBuHHzeQ6?usp=sharing)
-- [Lecture]()
+- Transcription and Translation with exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aJveHizBjoPWVNxYxrBFlZcoBuHHzeQ6?usp=sharing)
+- [Lecture](Lecture_03/Lecture_03_Introduction_to_NGS.pdf)
 ##
 ## **Module 2: The Linux Environment & Data Retrieval**
 ### **Lecture 4: Introduction to Linux and Google Colab [Dan/Phuc - 24/05/2026]**
