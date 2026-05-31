@@ -22,7 +22,7 @@
 ### **Lecture 3: Transcription and Translation; First Generation Sequencing (Sanger Sequencing), Next-Generation Sequecning (NGS) and Third-Generation Sequecning (TGS) [Loi - 30/05/2026]**
 - Homework Review
 - Transcription and Translation with exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aJveHizBjoPWVNxYxrBFlZcoBuHHzeQ6?usp=sharing)
-- Basic commands (User Defined Function, fold, sed -e, '${X:2}')
+- Basic commands (User Defined Function, fold, sed -e 's/AUG/M/' and '${X:2}')
 - [Lecture](Lecture_03/Lecture_03_Introduction_to_NGS.pdf)
 ##
 ## **Module 2: The Linux Environment & Data Retrieval**
