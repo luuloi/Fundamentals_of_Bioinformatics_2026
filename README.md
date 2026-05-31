@@ -36,6 +36,7 @@
   + Introduction to Nucleotide and Genome Database at NCBI
   + Standard biological data formats (FASTA, FASTQ, GenBank).
   + The concept of standard input, output, and piping.
+- [Lecture](/Lecture_05/NCBI%20Database.pdf)
 - Practice (Colab): Using cat, head, tail, wc, and grep. Counting sequences in a multi-FASTA file using grep -c.
 - Quiz: Recognizing FASTA format structures and correctly using pipes (|).
 - Homework: Download a multi-FASTA file via a provided link using wget. Use grep and wc to report the total number of sequences and extract only the header lines into a new file.
