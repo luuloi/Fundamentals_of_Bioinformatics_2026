@@ -34,13 +34,11 @@
 + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1am6SY7Ihn6TAbq7z9DuGovAOX69rJwo9)
 + [Linux Commandline CheatSheet](https://www.digitalocean.com/community/tutorials/linux-commands)
 ### **Lecture 5: Parsing Biological Text Files [Dan - 31/05/2026]**
-- Theory:
+- [Theory:](/Lecture_05/NCBI%20Database.pdf)
   + Introduction to Nucleotide and Genome Database at NCBI
   + Standard biological data formats (FASTA, FASTQ, GenBank).
   + The concept of standard input, output, and piping.
-- [Lecture](/Lecture_05/NCBI%20Database.pdf)
-- Practice (Colab): Using cat, head, tail, wc, and grep. Counting sequences in a multi-FASTA file using grep -c.
-- Quizzes and Homework [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1edgfVQXnEOqZc4E6LUVO8MrnUXRxlC2t?usp=sharing)
+- Practice: Using cat, head, tail, wc, and grep. Counting sequences in a multi-FASTA file using grep -c. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1edgfVQXnEOqZc4E6LUVO8MrnUXRxlC2t?usp=sharing)
 - Quiz: Recognizing FASTA format structures and correctly using pipes (|).
 - Homework: Download a multi-FASTA file via a provided link using wget. Use grep and wc to report the total number of sequences and extract only the header lines into a new file.
 ### **Lecture 6: Programmatic Database Access with EDirect [Dan/Phuc - 02/06/2026]**
