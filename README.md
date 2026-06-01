@@ -16,8 +16,10 @@
 ## **Module 1: Review Molecular Biology, PCR and Sequencing Techniques**
 ### **Lecture 1: Central Dogma and DNA/RNA/Protein in Molecular Biology [Loi - 23/05/2026]**
 - [PPT with Quizzes](Lecture_01/Lecture_01_The_Central_Dogma_Review.pdf)
+- [Youtube record](https://youtu.be/IgNab0XOWpw)
 ### **Lecture 2: PCR and Applications [Loi - 26-27/05/2026]**
 - Lecture, Quizzes and Homework: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FdqGKeCNgGJ2qnB-8UJpV-eJWH-lVZr0?usp=sharing)
+- [Youtube record](https://youtu.be/raJz5Bjp9C8)
 - Basic commands (echo, =, tr, printf, seq, '$()' and '$')
 ### **Lecture 3: Transcription and Translation; First Generation Sequencing (Sanger Sequencing), Next-Generation Sequecning (NGS) and Third-Generation Sequecning (TGS) [Loi - 30/05/2026]**
 - Homework Review
@@ -31,7 +33,7 @@
 - Practice (Colab): Setting up Google Colab for Bash using the %%bash magic cell. Basic commands (pwd, ls, cd, mkdir, mv, touch, cp, echo, cut, paste, grep, >, >>, wget, sort, |, cat, head, tail, wc).
 + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1am6SY7Ihn6TAbq7z9DuGovAOX69rJwo9)
 + [Linux Commandline CheatSheet](https://www.digitalocean.com/community/tutorials/linux-commands)
-### **Lecture 5: Parsing Biological Text Files [Dan/Phuc - 31/05/2026]**
+### **Lecture 5: Parsing Biological Text Files [Dan - 31/05/2026]**
 - Theory:
   + Introduction to Nucleotide and Genome Database at NCBI
   + Standard biological data formats (FASTA, FASTQ, GenBank).
