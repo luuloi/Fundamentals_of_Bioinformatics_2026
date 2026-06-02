@@ -41,15 +41,15 @@
 - Quiz: Recognizing FASTA format structures and correctly using pipes (|).
 - Homework: Download a multi-FASTA file via a provided link using wget. Use grep and wc to report the total number of sequences and extract only the header lines into a new file.
 ### **Lecture 6: Programmatic Database Access with EDirect [Dan/Phuc - 02/06/2026]**
-- Theory: Introduction to NCBI Entrez Direct (EDirect). Translating web searches into command-line queries (esearch, efetch).
-- Practice (Colab): Installing EDirect in Colab. Using esearch -db nucleotide -query "term" | efetch -format fasta to download specific genes.
+- [Theory:](Lecture_06/Lecture_06_Programmatic_Database_Access_with_EDirect.pdf)
+- Practice (Colab): Installing EDirect in Colab. Using esearch -db nucleotide -query "term" | efetch -format fasta to download specific genes. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j2ZTk4NtOYawfG0uCcd018BRpLdiDnyQ?usp=sharing)
 - Quiz: Constructing boolean search queries for NCBI and EDirect tool functions.
 - Homework: Write a one-line bash command to search for the human BRCA1 mRNA sequence and download it directly into a file named brca1_human.fasta.
 ##
 ## **Module 3: Sequence Alignment and BLAST+**
 ### **Lecture 7: Principles of Sequence Alignment** [Loi - 06/06/2026]
 - **Theory:** Homology, identity, and similarity. Global (Needleman-Wunsch) vs. Local (Smith-Waterman) alignment. Scoring matrices and gap penalties.
-- **Practice (Colab):** Advanced text processing with `awk` to calculate GC content from a FASTA sequence downloaded in the previous lecture.
+- **Practice (Colab):** Advanced text processing with `awk` to calculate GC content from a FASTA sequence downloaded in the previous lecture. 
 - **Quiz:** Global vs. local alignment use cases; how gap penalties affect alignment scores.
 - **Homework:** Write a short bash script utilizing `awk` that reads a sequence file and prints the total number of 'A', 'T', 'G', and 'C' nucleotides.
 
