@@ -41,7 +41,7 @@
 - Quiz: Recognizing FASTA format structures and correctly using pipes (|).
 - Homework: Download a multi-FASTA file via a provided link using wget. Use grep and wc to report the total number of sequences and extract only the header lines into a new file.
 ### **Lecture 6: Programmatic Database Access with EDirect [Dan/Phuc - 02/06/2026]**
-- [Theory:](Lecture_06/Lecture_06_Programmatic_Database_Access_with_EDirect.pdf)
+- [Theory:](Lecture_06/Lecture_06_Programmatic_Database_Access_with_EDirect.pdf) Programmatic Database Access with EDirect
 - Practice (Colab): Installing EDirect in Colab. Using esearch -db nucleotide -query "term" | efetch -format fasta to download specific genes. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j2ZTk4NtOYawfG0uCcd018BRpLdiDnyQ?usp=sharing)
 - Quiz: Constructing boolean search queries for NCBI and EDirect tool functions.
 - Homework: Write a one-line bash command to search for the human BRCA1 mRNA sequence and download it directly into a file named brca1_human.fasta.
