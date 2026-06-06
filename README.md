@@ -47,14 +47,14 @@
 - Homework: Write a one-line bash command to search for the human BRCA1 mRNA sequence and download it directly into a file named brca1_human.fasta.
 ##
 ## **Module 3: Sequence Alignment and BLAST+**
-### **Lecture 7: Principles of Sequence Alignment** [Loi - 06/06/2026]
+### **Lecture 7: Principles of Sequence Alignment** [Loi - 07/06/2026]
 - **Theory:** Homology, identity, and similarity. Global (Needleman-Wunsch) vs. Local (Smith-Waterman) alignment. Scoring matrices and gap penalties.
 - **Practice (Colab):** Advanced text processing with `awk` to calculate GC content from a FASTA sequence downloaded in the previous lecture. 
 - **Quiz:** Global vs. local alignment use cases; how gap penalties affect alignment scores.
 - **Homework:** Write a short bash script utilizing `awk` that reads a sequence file and prints the total number of 'A', 'T', 'G', and 'C' nucleotides.
 
-### **Lecture 8: Installing and Configuring Local BLAST+** [Dan/Phuc - 07/06/2026]
-- **Theory:** How the BLAST algorithm works heuristically. Understanding the differences between `blastn`, `blastp`, and `blastx`.
+### **Lecture 8: Installing and Configuring Local BLAST+** [Dan - 06/06/2026]
+- [**Theory**](/Lecture_08/Basic_Local_Alignment.pdf) How the BLAST algorithm works heuristically. Understanding the differences between `blastn`, `blastp`, and `blastx`.
 - **Practice (Colab):** Using `apt-get install ncbi-blast+`. Creating a custom local BLAST database using `makeblastdb`.
 - **Quiz:** Steps to format a FASTA file into a BLAST-searchable database.
 - **Homework:** Download a bacterial genome (FASTA) via `wget`. Use `makeblastdb` to format it as a nucleotide database.
