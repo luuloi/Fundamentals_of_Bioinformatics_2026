@@ -27,6 +27,7 @@
 - Basic commands (User Defined Function, fold, sed -e 's/AUG/M/' and '${X:2}')
 - [Lecture](Lecture_03/Lecture_03_Introduction_to_NGS.pdf)
 - [YOUTUBE: Xét nghiệm gen hay xem bói 4.0](https://www.youtube.com/watch?v=Qac1Bd8V8_I)
+- [awk: Examples and Homework][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h3-Jgspi2quJprcRFhm7fXXeFLi2WydX?usp=sharing)
 ##
 ## **Module 2: The Linux Environment & Data Retrieval**
 ### **Lecture 4: Introduction to Linux and Google Colab [Dan - 24/05/2026]**
