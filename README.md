@@ -63,7 +63,8 @@
 
 ### **Lecture 9: Executing and Parsing BLAST Searches** [Loi - 09/06/2026]
 - **Theory:** Understanding E-values, bit scores, and alignment outputs.
-- **Practice (Colab):** Running `blastn`. Customizing output formats using `-outfmt "6 qseqid sseqid pident evalue"`. Parsing tabular output using `awk` to filter for high-confidence hits.
+- **Practice (Colab):**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12PMqEAm0QK9epmGwMvIIsZIWh9IjFG53?usp=sharing)
+  Running `blastn`. Customizing output formats using `-outfmt "6 qseqid sseqid pident evalue"`. Parsing tabular output using `awk` to filter for high-confidence hits.
 - **Quiz:** Interpreting E-values and understanding the columns in BLAST tabular output format 6.
 - **Homework:** Query a mystery sequence against the custom bacterial database from Lecture 5. Output the results in tabular format and use `awk` to extract only hits with >95% identity.
 ##
