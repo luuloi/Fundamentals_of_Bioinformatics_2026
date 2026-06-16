@@ -73,10 +73,16 @@
 
 ### **Module 4: Multiple Sequence Alignment (MSA)**
 ### **Lecture 10: MSA Algorithms and Theory** [Loi - 13/06/2026]
-- **Theory:** Progressive alignment methods. Why MSA is crucial for identifying conserved domains and evolutionary relationships.
-- **Practice (Colab):** Installing Clustal Omega via `apt-get install clustalo`. Preparing unaligned multi-FASTA files for input.
+- **Theory:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DjHBxA4uR781xqwzjcDoj_EjzGMYBSAI?usp=sharing)
+     + Progressive alignment methods.
+     + Why MSA is crucial for identifying conserved domains and evolutionary relationships.
+- **Practice (Colab):**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DjHBxA4uR781xqwzjcDoj_EjzGMYBSAI?usp=sharing)
+     + Installing Clustal Omega via `apt-get install clustalo`.
+     + Preparing unaligned multi-FASTA files for input.
 - **Quiz:** Progressive alignment pitfalls and the biological significance of conserved columns.
-- **Homework:** Use EDirect to download 5 homologous sequences of the same gene across different species. Combine them into a single file using `cat`.
+- **Homework:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DjHBxA4uR781xqwzjcDoj_EjzGMYBSAI?usp=sharing)
+     + Use EDirect to download 5 homologous sequences of the same gene across different species.
+     + Combine them into a single file using `cat`.
 
 ### **Lecture 11: Running Clustal Omega via CLI** [Dan/Phuc - 14/06/2026]
 - **Theory:** Guide trees and hidden Markov models (HMMs) in alignment tools.
