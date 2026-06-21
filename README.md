@@ -92,7 +92,8 @@
 
 ### **Lecture 12: Alignment Trimming and Processing** [Dan/Phuc - 16/06/2026]
 - **Theory:** The impact of poor alignments on downstream analyses. Identifying reliable blocks.
-- **Practice (Colab):** Installing and using a command-line trimmer (like `trimal`) to remove poorly aligned regions and gaps.
+- **Practice (Colab):** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UVZc9XEs-HhK3ylsD6TGW_y7QoMetdy5?usp=sharing)
+Installing and using a command-line trimmer (like `trimal`) to remove poorly aligned regions and gaps.
 - **Quiz:** Why and when alignment trimming is necessary.
 - **Homework:** Take the alignment output from Lecture 8 and use `trimal` to remove columns with more than 30% gaps.
 ##
@@ -100,8 +101,7 @@
 ## **Module 5: Primer and Probe Design**
 ### **Lecture 13: Thermodynamics of PCR Design** [Loi - 20/06/2026]
 - **Theory:** PCR kinetics. Rules for designing optimal primers and TaqMan probes (length, melting temperature $T_m$, GC content, avoiding secondary structures).
-- **Practice (Colab):** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UVZc9XEs-HhK3ylsD6TGW_y7QoMetdy5?usp=sharing)
-Using `awk` to write a basic $T_m$ calculator script (using the Wallace rule: T_m = 2(A+T) + 4(G+C)).
+- **Practice (Colab):** Using `awk` to write a basic $T_m$ calculator script (using the Wallace rule: T_m = 2(A+T) + 4(G+C)).
 - **Quiz:** Primer design constraints and calculating basic T_m.
 - **Homework:** Create a Bash script that takes a 20-base primer string as an argument and outputs its GC% and estimated T_m.
 
