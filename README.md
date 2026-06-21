@@ -85,7 +85,7 @@
      + Combine them into a single file using `cat`.
 
 ### **Lecture 11: Running Clustal Omega via CLI** [Dan/Phuc - 14/06/2026]
-- **Theory:** Guide trees and hidden Markov models (HMMs) in alignment tools.
+- [**Theory:**](/Lecture_11/Interpret clustal omega.pdf) Guide trees and hidden Markov models (HMMs) in alignment tools.
 - **Practice (Colab):** Running `clustalo -i input.fasta -o output.aln --outfmt=clustal`. Reviewing the alignment using `cat` and `less`.
 - **Quiz:** Command line flags for Clustal Omega and interpreting Clustal format (* vs . vs : symbols).
 - **Homework:** Run Clustal Omega on the multi-FASTA file generated in Lecture 7. Output the file in both Clustal and FASTA formats.
@@ -100,7 +100,8 @@
 ## **Module 5: Primer and Probe Design**
 ### **Lecture 13: Thermodynamics of PCR Design** [Loi - 20/06/2026]
 - **Theory:** PCR kinetics. Rules for designing optimal primers and TaqMan probes (length, melting temperature $T_m$, GC content, avoiding secondary structures).
-- **Practice (Colab):** Using `awk` to write a basic $T_m$ calculator script (using the Wallace rule: T_m = 2(A+T) + 4(G+C)).
+- **Practice (Colab):** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UVZc9XEs-HhK3ylsD6TGW_y7QoMetdy5?usp=sharing)
+Using `awk` to write a basic $T_m$ calculator script (using the Wallace rule: T_m = 2(A+T) + 4(G+C)).
 - **Quiz:** Primer design constraints and calculating basic T_m.
 - **Homework:** Create a Bash script that takes a 20-base primer string as an argument and outputs its GC% and estimated T_m.
 
