@@ -72,7 +72,7 @@
 ##
 
 ### **Module 4: Multiple Sequence Alignment (MSA)**
-### **Lecture 10: MSA Algorithms and Theory** [Loi - 13/06/2026]
+### **Lecture 10: MSA Algorithms** [Loi - 13/06/2026]
 - **Theory:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DjHBxA4uR781xqwzjcDoj_EjzGMYBSAI?usp=sharing)
      + Progressive alignment methods.
      + Why MSA is crucial for identifying conserved domains and evolutionary relationships.
