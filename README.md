@@ -100,10 +100,16 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
 
 ## **Module 5: Primer and Probe Design**
 ### **Lecture 13: Thermodynamics of PCR Design** [Loi - 20/06/2026]
-- **Theory:** PCR kinetics. Rules for designing optimal primers and TaqMan probes (length, melting temperature $T_m$, GC content, avoiding secondary structures).
-- **Practice (Colab):** Using `awk` to write a basic $T_m$ calculator script (using the Wallace rule: T_m = 2(A+T) + 4(G+C)).
+- **Theory:**
+  + PCR kinetics. Rules for designing optimal primers and TaqMan probes (length, melting temperature $T_m$, GC content, avoiding secondary structures).
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nXsMs_k_CN2IZ4hYF68p-gHEVblV3vdG?usp=sharing)
+- **Practice (Colab):**
+  + Using `awk` to write a basic $T_m$ calculator script (using the Wallace rule: T_m = 2(A+T) + 4(G+C)).
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nXsMs_k_CN2IZ4hYF68p-gHEVblV3vdG?usp=sharing)
 - **Quiz:** Primer design constraints and calculating basic T_m.
-- **Homework:** Create a Bash script that takes a 20-base primer string as an argument and outputs its GC% and estimated T_m.
+- **Homework:**
+  + Create a Bash script that takes a 20-base primer string as an argument and outputs its GC% and estimated T_m.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nXsMs_k_CN2IZ4hYF68p-gHEVblV3vdG?usp=sharing)
 
 ### **Lecture 14: Automated Design with Primer3** [Dan/Phuc - 21/06/2026]
 - **Theory:** Primer3 core algorithms. Specificity, off-target binding penalties, and multiplexing constraints.
