@@ -131,10 +131,18 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
   + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p1H-LsVve8SOcMpHHXBrGIRYq06lRF0E?usp=sharing)
 
 ### **Lecture 15: In-Silico PCR Validation** [Loi - 23/06/2026]
-- **Theory:** Ensuring primers do not bind off-target. Utilizing bioinformatics to simulate PCR before lab work.
-- **Practice (Colab):** Using `blastn` with specialized parameters (`-task blastn-short`) to map designed primers against a reference genome.
-- **Quiz:** Why standard BLAST settings fail for short primer sequences.
-- **Homework:** Run an in-silico BLAST search for the primers designed in Lecture 11 against the human genome database. Analyze the output to confirm they only amplify the intended target region.
+- **Theory:**
+  + Ensuring primers do not bind off-target. Utilizing bioinformatics to simulate PCR before lab work.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kD5FUk7XnUbhMg4o7LVtn3xdOgKamzHj?usp=sharing)
+- **Practice (Colab):**
+  + Using `blastn` with specialized parameters (`-task blastn-short`) to map designed primers against a reference genome.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kD5FUk7XnUbhMg4o7LVtn3xdOgKamzHj?usp=sharing)
+- **Quiz:**
+  + Why standard BLAST settings fail for short primer sequences.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kD5FUk7XnUbhMg4o7LVtn3xdOgKamzHj?usp=sharing)
+- **Homework:**
+  + Run an in-silico BLAST search for the primers designed in Lecture 11 against the human genome database. Analyze the output to confirm they only amplify the intended target region.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kD5FUk7XnUbhMg4o7LVtn3xdOgKamzHj?usp=sharing)
 ##
 
 ## **Module 6: Phylogenetics**
