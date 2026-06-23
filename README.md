@@ -116,11 +116,19 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
   + Create a Bash script that takes a 20-base primer string as an argument and outputs its GC% and estimated T_m.
   + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nXsMs_k_CN2IZ4hYF68p-gHEVblV3vdG?usp=sharing)
 
-### **Lecture 14: Automated Design with Primer3** [Dan/Phuc - 21/06/2026]
-- **Theory:** Primer3 core algorithms. Specificity, off-target binding penalties, and multiplexing constraints.
-- **Practice (Colab):** Installing Primer3 (`apt-get install primer3`). Formatting the Boulder-IO input text file. Running Primer3 core from the command line.
-- **Quiz:** Understanding the Primer3 input/output key-value pair format.
-- **Homework:** Write a Primer3 input file for a target sequence to design an amplicon between 150-250bp. Run Primer3 and extract the top forward and reverse primer sequences using `grep`.
+### **Lecture 14: Automated Design with Primer3** [Loi - 21/06/2026]
+- **Theory:**
+  + Primer3 core algorithms. Specificity, off-target binding penalties, and multiplexing constraints.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p1H-LsVve8SOcMpHHXBrGIRYq06lRF0E?usp=sharing)
+- **Practice (Colab):**
+  + Installing Primer3 (`apt-get install primer3`). Formatting the Boulder-IO input text file. Running Primer3 core from the command line.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p1H-LsVve8SOcMpHHXBrGIRYq06lRF0E?usp=sharing)
+- **Quiz:**
+  + Understanding the Primer3 input/output key-value pair format.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p1H-LsVve8SOcMpHHXBrGIRYq06lRF0E?usp=sharing)
+- **Homework:**
+  + Write a Primer3 input file for a target sequence to design an amplicon between 150-250bp. Run Primer3 and extract the top forward and reverse primer sequences using `grep`.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p1H-LsVve8SOcMpHHXBrGIRYq06lRF0E?usp=sharing)
 
 ### **Lecture 15: In-Silico PCR Validation** [Loi - 23/06/2026]
 - **Theory:** Ensuring primers do not bind off-target. Utilizing bioinformatics to simulate PCR before lab work.
