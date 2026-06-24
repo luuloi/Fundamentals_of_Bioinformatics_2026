@@ -32,7 +32,9 @@
 ## **Module 2: The Linux Environment & Data Retrieval**
 ### **Lecture 4: Introduction to Linux and Google Colab [Dan - 24/05/2026]**
 - Theory: The importance of the command line in modern biotechnology and high-throughput data analysis. The file system hierarchy.
-- Practice: Setting up Google Colab for Bash using the %%bash magic cell. Basic commands (pwd, ls, cd, mkdir, mv, touch, cp, echo, cut, paste, grep, >, >>, wget, sort, |, cat, head, tail, wc). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1am6SY7Ihn6TAbq7z9DuGovAOX69rJwo9)
+- Practice:
+  + Setting up Google Colab for Bash using the %%bash magic cell. Basic commands (pwd, ls, cd, mkdir, mv, touch, cp, echo, cut, paste, grep, >, >>, wget, sort, |, cat, head, tail, wc).
+  + Homwwork  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1am6SY7Ihn6TAbq7z9DuGovAOX69rJwo9)
 + [Linux Commandline CheatSheet](https://www.digitalocean.com/community/tutorials/linux-commands)
 ### **Lecture 5: Parsing Biological Text Files [Dan - 31/05/2026]**
 - [Theory:](/Lecture_05/NCBI%20Database.pdf)
@@ -57,7 +59,7 @@
 - **Quiz:** Global vs. local alignment use cases; how gap penalties affect alignment scores.
 - **Homework:** Write a short bash script utilizing `awk` that reads a sequence file and prints the total number of 'A', 'T', 'G', and 'C' nucleotides.
 
-### **Lecture 8: Installing and Configuring Local BLAST+** [Dan - 06/06/2026]
+### **Lecture 8: Installing and Configuring Local BLAST+** [Dan/Loi - 06/06/2026]
 - [**Theory**](Lecture_08/Basic_Local_Alignment.pdf) How the BLAST algorithm works heuristically. Understanding the differences between `blastn`, `blastp`, and `blastx`.
 - **Practice (Colab):**
   + Using `apt-get install ncbi-blast+`. Creating a custom local BLAST database using `makeblastdb`.
