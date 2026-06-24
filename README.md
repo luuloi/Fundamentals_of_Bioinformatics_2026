@@ -155,10 +155,19 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
 
 ## **Module 6: Phylogenetics**
 ### **Lecture 16: Fundamentals of Phylogenetics** [Loi - 27/06/2026]
-- **Theory:** Anatomy of a tree (nodes, branches, clades). Distance-matrix vs. Character-based (Maximum Likelihood) methods.
-- **Practice (Colab):** Introduction to the Newick tree format. Reading and understanding Newick strings using the command line.
-- **Quiz:** Differentiating between evolutionary models and reading Newick format.
-- **Homework:** Manually draw the tree represented by a provided Newick string: `((Human:0.1,Chimp:0.2):0.3,Mouse:0.5);`.
+- **Theory:**
+  + Anatomy of a tree (nodes, branches, clades).
+  + Distance-matrix vs. UPGMA vs. Character-based (Maximum Likelihood) methods.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wk4w3-90yy6Nsslnalx-dmPu57K4ILDC?usp=sharing)
+- **Practice (Colab):**
+  + Introduction to the Newick tree format. Reading and understanding Newick strings using the command line.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wk4w3-90yy6Nsslnalx-dmPu57K4ILDC?usp=sharing)
+- **Quiz:**
+  + Differentiating between evolutionary models and reading Newick format.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wk4w3-90yy6Nsslnalx-dmPu57K4ILDC?usp=sharing)
+- **Homework:**
+  + Manually draw the tree represented by a provided Newick string: `((Human:0.1,Chimp:0.2):0.3,Mouse:0.5);.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wk4w3-90yy6Nsslnalx-dmPu57K4ILDC?usp=sharing)
 
 ### **Lecture 17: Tree Construction via Command Line** [Dan/Phuc - 28/06/2026]
 - **Theory:** Bootstrapping and statistical confidence in clades.
