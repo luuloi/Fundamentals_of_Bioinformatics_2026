@@ -90,7 +90,7 @@
      + Combine them into a single file using `cat`.
 
 ### **Lecture 11: Running Clustal Omega via CLI** [Dan/Phuc - 14/06/2026]
-- [**Theory:**]("Lecture_11/Interpret clustal omega.pdf") Guide trees and hidden Markov models (HMMs) in alignment tools.
+- [**Theory:**]("Lecture_11/Interpret_clustal_omega.pdf") Guide trees and hidden Markov models (HMMs) in alignment tools.
 - **Practice (Colab):** Running `clustalo -i input.fasta -o output.aln --outfmt=clustal`. Reviewing the alignment using `cat` and `less`.
 - **Quiz:** Command line flags for Clustal Omega and interpreting Clustal format (* vs . vs : symbols).
 - **Homework:** Run Clustal Omega on the multi-FASTA file generated in Lecture 7. Output the file in both Clustal and FASTA formats.
