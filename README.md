@@ -58,10 +58,16 @@
 - **Homework:** Write a short bash script utilizing `awk` that reads a sequence file and prints the total number of 'A', 'T', 'G', and 'C' nucleotides.
 
 ### **Lecture 8: Installing and Configuring Local BLAST+** [Dan - 06/06/2026]
-- [**Theory**](/Lecture_08/Basic_Local_Alignment.pdf) How the BLAST algorithm works heuristically. Understanding the differences between `blastn`, `blastp`, and `blastx`.
-- **Practice (Colab):** Using `apt-get install ncbi-blast+`. Creating a custom local BLAST database using `makeblastdb`.
-- **Quiz:** Steps to format a FASTA file into a BLAST-searchable database.
-- **Homework:** Download a bacterial genome (FASTA) via `wget`. Use `makeblastdb` to format it as a nucleotide database.
+- [**Theory**](Lecture_08/Basic_Local_Alignment.pdf) How the BLAST algorithm works heuristically. Understanding the differences between `blastn`, `blastp`, and `blastx`.
+- **Practice (Colab):**
+  + Using `apt-get install ncbi-blast+`. Creating a custom local BLAST database using `makeblastdb`.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vumPUmW52kyz8qG5Z5TdyAku3ZsxuGc9?usp=sharing)
+- **Quiz:**
+  + Steps to format a FASTA file into a BLAST-searchable database.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vumPUmW52kyz8qG5Z5TdyAku3ZsxuGc9?usp=sharing)
+- **Homework:**
+  + Download a bacterial genome (FASTA) via `wget`. Use `makeblastdb` to format it as a nucleotide database.
+  + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vumPUmW52kyz8qG5Z5TdyAku3ZsxuGc9?usp=sharing)
 
 ### **Lecture 9: Executing and Parsing BLAST Searches** [Loi - 09/06/2026]
 - **Theory:**
