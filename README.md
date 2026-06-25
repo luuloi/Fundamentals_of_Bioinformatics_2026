@@ -157,7 +157,7 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
 ### **Lecture 16: Fundamentals of Phylogenetics** [Loi - 27/06/2026]
 - **Theory:**
   + Anatomy of a tree (nodes, branches, clades).
-  + Distance-matrix vs. UPGMA vs. Character-based (Maximum Likelihood) methods.
+  + Distance-matrix (Neighbour Joining Tree and UPGMA) vs. Character-based (Maximum Parsimony and Maximum Likelihood) methods.
   + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wk4w3-90yy6Nsslnalx-dmPu57K4ILDC?usp=sharing)
 - **Practice (Colab):**
   + Introduction to the Newick tree format. Reading and understanding Newick strings using the command line.
