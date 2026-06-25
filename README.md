@@ -10,6 +10,9 @@
 - Linux Command Line and Bash Script: Utilize Linux Command Line and Bash Script within Google Colab to explore and edit the sequence in FASTA format.
 ##
 
+## **Reference and Lectures/Scripts**
+### [Microbial Genome & Microbiome Analysis Course](https://github.com/UeenHuynh/MGMA_2024)
+##
 ## [Course Overview](Lecture_00/Lecture_00_overview_2026May23.pdf)
 ##
 
