@@ -199,7 +199,7 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
 ##
 ### **Lecture 20: Pre-Test** [Loi - 29&30/06/2026]
 - [Pre-Test 0: 50 Multiple-Choice Questions](https://notebooklm.google.com/notebook/4c05873c-56fa-4a58-a47a-7ef9c0691721/artifact/15647063-f80f-45cc-be0f-d79600247896?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
-- [Pre-Test 1: Linux Commandline and Bash Script (Module 1.1)](https://docs.google.com/forms/d/e/1FAIpQLSdZvCm90EgE_aS75roEbEqXlmRNnbWxYYa_wQNmwQ1czhIknA/viewform)
+- [Pre-Test 1: Linux Command Line and Bash Script (Module 1.1)](https://docs.google.com/forms/d/e/1FAIpQLSdZvCm90EgE_aS75roEbEqXlmRNnbWxYYa_wQNmwQ1czhIknA/viewform)
 - [Pre-Test 2: Linux Command Line and Bash Script (Module 1.2 & 2.1)](https://docs.google.com/forms/d/e/1FAIpQLSfM5-hgrgwTXivR018neoZsXixMsD6QLrrMB8Cwr4ArssXZTQ/viewform)
 - [Pre-Test 3: The Basic Molecular Biology and FASTA Format (Module 2.2 & 3.1)](https://docs.google.com/forms/d/e/1FAIpQLSfcU5acC2lbmEOVkXbk_j2vOjHTOdvn7YtSjQYbH0QtMWYCGA/viewform)
 - [Pre-Test 4: Data Retrieval with NCBI EDirect (Module 3.2 & 4.1)](https://docs.google.com/forms/d/e/1FAIpQLSf68x7u6GigEfee6erMBa0m3Zfuzh9MiH4ik1iKNFS2tXBDdQ/viewform)
