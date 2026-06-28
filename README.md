@@ -175,6 +175,7 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
 ### **Lecture 17: Tree Construction via Command Line** [Dan - 28/06/2026]
 - [**Theory:**](Lecture_17/UI_phylogenetic_tree.pdf) Bootstrapping and statistical confidence in clades.
 - **Practice (Colab):** Installing FastTree (`apt-get install fasttree`). Generating a Maximum Likelihood tree from an MSA file generated in Lecture 11.
++ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13tnVF7fHhTk7_LMkvHvS_7Ez2qAUiwnB#scrollTo=m3SoYBJxYn7y)
 - **Quiz:** Command line execution of FastTree and interpreting bootstrap values.
 - **Homework:** Build a phylogenetic tree using FastTree from a provided alignment of viral sequences. Save the resulting Newick tree to a file.
 ##
@@ -183,7 +184,6 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
 ### **Lecture 18: Bash Scripting for Pipelines** [Dan/Phuc - 28/06/2026]
 - [**Theory:**]() The philosophy of reproducible bioinformatics. Using variables, loops (`for`, `while`), and conditional statements (`if`) in Bash.
 - **Practice (Colab):** Writing a loop to automate BLAST searches for 10 different sequence files sequentially.
-+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13tnVF7fHhTk7_LMkvHvS_7Ez2qAUiwnB#scrollTo=m3SoYBJxYn7y)
 - **Quiz:** Bash scripting syntax (variable assignment, loop structure).
 - **Homework:** Write a Bash `for` loop that iterates over three FASTA files, counts the sequences in each, and appends the results to a log file.
 
