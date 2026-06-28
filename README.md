@@ -55,7 +55,9 @@
 ##
 ## **Module 3: Sequence Alignment and BLAST+**
 ### **Lecture 7: Principles of Sequence Alignment** [Loi - 07/06/2026]
-- **Theory:** Homology, identity, and similarity. Global (Needleman-Wunsch) vs. Local (Smith-Waterman) alignment. Scoring matrices and gap penalties.
+- **Theory:**
+  + Homology, identity, and similarity. Global (Needleman-Wunsch) vs. Local (Smith-Waterman) alignment. Scoring matrices and gap penalties.
+  + [PDF](Lecture_07/Lecture_07_Global_vs_Local_Alignment.pdf)
 - **Practice (Colab):**
   + awk with Examples and Homework [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h3-Jgspi2quJprcRFhm7fXXeFLi2WydX?)
   + Advanced text processing with `awk` to calculate GC content from a FASTA sequence downloaded in the previous lecture. 
