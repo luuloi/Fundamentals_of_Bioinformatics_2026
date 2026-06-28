@@ -202,8 +202,8 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
 - [Pre-Test 1: Linux Commandline and Bash Script (Module 1.1)](https://docs.google.com/forms/d/e/1FAIpQLSdZvCm90EgE_aS75roEbEqXlmRNnbWxYYa_wQNmwQ1czhIknA/viewform)
 - [Pre-Test 2: Linux Command Line and Bash Script (Module 1.2 & 2.1)](https://docs.google.com/forms/d/e/1FAIpQLSfM5-hgrgwTXivR018neoZsXixMsD6QLrrMB8Cwr4ArssXZTQ/viewform)
 - [Pre-Test 3: The Basic Molecular Biology and FASTA Format (Module 2.2 & 3.1)](https://docs.google.com/forms/d/e/1FAIpQLSfcU5acC2lbmEOVkXbk_j2vOjHTOdvn7YtSjQYbH0QtMWYCGA/viewform)
-- [Pre-Test 4: Data Retrieval with NCBI EDirect (Module 3.2)](https://docs.google.com/forms/d/e/1FAIpQLSf68x7u6GigEfee6erMBa0m3Zfuzh9MiH4ik1iKNFS2tXBDdQ/viewform)
-- [Pre-Test 6: PCR and Primer Design (Module 4)](https://docs.google.com/forms/d/e/1FAIpQLSfOW5NkhTpzKVEpFAnVE-OlMWzhfdAVjYWQ1GsNkq4v1qy-ZQ/viewform)
+- [Pre-Test 4: Data Retrieval with NCBI EDirect (Module 3.2 & 4.1)](https://docs.google.com/forms/d/e/1FAIpQLSf68x7u6GigEfee6erMBa0m3Zfuzh9MiH4ik1iKNFS2tXBDdQ/viewform)
+- [Pre-Test 6: PCR and Primer Design (Module 4.2)](https://docs.google.com/forms/d/e/1FAIpQLSfOW5NkhTpzKVEpFAnVE-OlMWzhfdAVjYWQ1GsNkq4v1qy-ZQ/viewform)
 - [Pre-Test 7: Multiple Sequence Alignment (MSA) and Clustal Omega (Module 5)](https://docs.google.com/forms/d/e/1FAIpQLSfOW5NkhTpzKVEpFAnVE-OlMWzhfdAVjYWQ1GsNkq4v1qy-ZQ/viewform)
 
 ##
