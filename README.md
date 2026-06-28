@@ -205,6 +205,7 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
 - [Pre-Test 4: Data Retrieval with NCBI EDirect (Module 3.2 & 4.1)](https://docs.google.com/forms/d/e/1FAIpQLSf68x7u6GigEfee6erMBa0m3Zfuzh9MiH4ik1iKNFS2tXBDdQ/viewform)
 - [Pre-Test 6: PCR and Primer Design (Module 4.2 & 5.1)](https://docs.google.com/forms/d/e/1FAIpQLSfOW5NkhTpzKVEpFAnVE-OlMWzhfdAVjYWQ1GsNkq4v1qy-ZQ/viewform)
 - [Pre-Test 7: Multiple Sequence Alignment (MSA) and Clustal Omega (Module 5.2)](https://docs.google.com/forms/d/e/1FAIpQLSdfk7ImdKiOKWZ9Q4TleltRyeuYnWd80p5WSmyT8jPHa8IkmQ/viewform)
+- [Pre-Test 8: BLAST and Phylogenetic Analysis (Module 5.3 & Module 6)](https://docs.google.com/forms/d/e/1FAIpQLSdfk7ImdKiOKWZ9Q4TleltRyeuYnWd80p5WSmyT8jPHa8IkmQ/viewform)
 
 ##
 ## **Final Exam: Multiple Choice** [Uni - ??/??/2026]
