@@ -207,8 +207,8 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
 - [Pre-Test 3: The Basic Molecular Biology and FASTA Format (Module 2.2 & 3.1)](https://docs.google.com/forms/d/e/1FAIpQLSfcU5acC2lbmEOVkXbk_j2vOjHTOdvn7YtSjQYbH0QtMWYCGA/viewform)
 - [Pre-Test 4: Data Retrieval with NCBI EDirect (Module 3.2 & 4.1)](https://docs.google.com/forms/d/e/1FAIpQLSf68x7u6GigEfee6erMBa0m3Zfuzh9MiH4ik1iKNFS2tXBDdQ/viewform)
 - [Pre-Test 6: PCR and Primer Design (Module 4.2 & 5.1)](https://docs.google.com/forms/d/e/1FAIpQLSfOW5NkhTpzKVEpFAnVE-OlMWzhfdAVjYWQ1GsNkq4v1qy-ZQ/viewform)
-- [Pre-Test 7: Multiple Sequence Alignment (MSA) and Clustal Omega (Module 5.2)](https://docs.google.com/forms/d/e/1FAIpQLSdfk7ImdKiOKWZ9Q4TleltRyeuYnWd80p5WSmyT8jPHa8IkmQ/viewform)
-- [Pre-Test 8: BLAST and Phylogenetic Analysis (Module 5.3 & Module 6)](https://docs.google.com/forms/d/e/1FAIpQLSdfk7ImdKiOKWZ9Q4TleltRyeuYnWd80p5WSmyT8jPHa8IkmQ/viewform)
+- [Pre-Test 7: Multiple Sequence Alignment (MSA) and Clustal Omega (Module 5.2 & Module 6)](https://docs.google.com/forms/d/e/1FAIpQLSdfk7ImdKiOKWZ9Q4TleltRyeuYnWd80p5WSmyT8jPHa8IkmQ/viewform)
+- [Pre-Test 8: BLAST and Phylogenetic Analysis (Module 5.2 & Module 6)](https://docs.google.com/forms/d/e/1FAIpQLSdfk7ImdKiOKWZ9Q4TleltRyeuYnWd80p5WSmyT8jPHa8IkmQ/viewform)
 ---
 - [Post-Test 1: 50 Multiple-Choice Questions](https://notebooklm.google.com/notebook/4c05873c-56fa-4a58-a47a-7ef9c0691721/artifact/7cb5aaa5-b936-4283-aada-e1477fdff6b1?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 ##
