@@ -215,6 +215,9 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
 - [Post-Test 2: 56 Multiple-Choice Questions](https://notebooklm.google.com/notebook/4c05873c-56fa-4a58-a47a-7ef9c0691721/artifact/6a0e33fc-1863-42b4-ae34-33b8e53d31c3?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 - [Post-Test 3: 30 Multiple-Choice Questions](https://notebooklm.google.com/notebook/4c05873c-56fa-4a58-a47a-7ef9c0691721/artifact/23011a6e-0a45-4a83-b022-582282745659?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 ##
+### **Lecture 22: Review Phylogenetic Tree and Evolution [Loi - 01/07/2026]**
+![17bp missing in snake](Lecture_22/hinh_on_tap.png)
+##
 ### Điểm Thường Kỳ
 ### [K24A](https://docs.google.com/spreadsheets/d/1Sv3bn-W47mRrAdfO6JlajNVaFgsPhSaSSvoY614O8yQ/edit?gid=0#gid=0)
 ### [K24B](https://docs.google.com/spreadsheets/d/1rgbPqzSZK3RrCzjNa9_xUTao5P6GFmVLJ4LeFY0QXas/edit?gid=0#gid=0)
