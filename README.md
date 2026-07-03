@@ -210,9 +210,15 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
 - [Pre-Test 7: Multiple Sequence Alignment (MSA) and Clustal Omega (Module 5.2 & Module 6)](https://docs.google.com/forms/d/e/1FAIpQLSdfk7ImdKiOKWZ9Q4TleltRyeuYnWd80p5WSmyT8jPHa8IkmQ/viewform)
 - [Pre-Test 8: BLAST and Phylogenetic Analysis (Module 5.2 & Module 6)](https://docs.google.com/forms/d/e/1FAIpQLSdfk7ImdKiOKWZ9Q4TleltRyeuYnWd80p5WSmyT8jPHa8IkmQ/viewform)
 ---
+### **Lecture 21: Post-Test [Loi - 01/07/2026]**
 - [Post-Test 1: 50 Multiple-Choice Questions](https://notebooklm.google.com/notebook/4c05873c-56fa-4a58-a47a-7ef9c0691721/artifact/7cb5aaa5-b936-4283-aada-e1477fdff6b1?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 - [Post-Test 2: 56 Multiple-Choice Questions](https://notebooklm.google.com/notebook/4c05873c-56fa-4a58-a47a-7ef9c0691721/artifact/6a0e33fc-1863-42b4-ae34-33b8e53d31c3?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
+- [Post-Test 3: 30 Multiple-Choice Questions](https://notebooklm.google.com/notebook/4c05873c-56fa-4a58-a47a-7ef9c0691721/artifact/23011a6e-0a45-4a83-b022-582282745659?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 ##
+### Điểm Thường Kỳ
+### [K24A](https://docs.google.com/spreadsheets/d/1Sv3bn-W47mRrAdfO6JlajNVaFgsPhSaSSvoY614O8yQ/edit?gid=0#gid=0)
+### [K24B](https://docs.google.com/spreadsheets/d/1rgbPqzSZK3RrCzjNa9_xUTao5P6GFmVLJ4LeFY0QXas/edit?gid=0#gid=0)
+
 ## **Final Exam: Multiple Choice** [Uni - ??/??/2026]
 
 
