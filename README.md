@@ -217,6 +217,10 @@ Installing and using a command-line trimmer (like `trimal`) to remove poorly ali
 ##
 ### **Lecture 22: Review Phylogenetic Tree and Evolution [Loi - 01/07/2026]**
 ![17bp missing in snake](Lecture_22/hinh_on_tap.png)
+###
+Reference:
+- https://www.cell.com/fulltext/S0092-8674%2816%2931310-1
+- https://www.cell.com/cms/10.1016/j.cell.2016.09.028/attachment/137e2323-216b-446e-869c-32653f4064c5/mmc1.pdf
 ##
 ### Điểm Thường Kỳ
 ### [K24A](https://docs.google.com/spreadsheets/d/1Sv3bn-W47mRrAdfO6JlajNVaFgsPhSaSSvoY614O8yQ/edit?gid=0#gid=0)
